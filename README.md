@@ -1,5 +1,6 @@
 # YOLOv8 Object Detection Using Laptop Camera
-
+## NAME : SARFARAZ I
+## REG NO : 212225230252
 ## Aim
 
 To access the **laptop camera**, capture an image, and detect objects using **YOLOv8**.
